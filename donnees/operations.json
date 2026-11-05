@@ -86,5 +86,13 @@
     "culture": "tomate",
     "operation": "arrosage",
     "coutFCFA": 2000
+  },
+  {
+    "id": "S07",
+    "date": "2026-11-03",
+    "parcelle": "P3",
+    "culture": "cacao",
+    "operation": "récolte",
+    "coutFCFA": 8000
   }
 ]
